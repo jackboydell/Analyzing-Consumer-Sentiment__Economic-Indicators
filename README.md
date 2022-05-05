@@ -14,4 +14,4 @@ Techniques/approaches:
 
 Machine Learning (CS 475) - Professor Cheng, Willamette University (Spring 2022)
 
-Team members: 
+Team members: David Richardson, Madeline Van Slyke, Alex Bamberger
