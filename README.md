@@ -12,6 +12,12 @@ Techniques/approaches:
 (SQL) data manipulation, multiple joins, importing/exporting with CSVs, table creation
 (Python) Pandas, Numpy, Matplotlib, Scikit-Learn... 
 
+Materials:
+  (Consumer Sentiment.sql): SQL script used to clean, manipulate, join, and export the data in an appropriate format ;
+  (Analzying Consumer Sentiment... .ipynb): Python code used for feature selection/engineering, EDA, model selection, algorithm testing/comparison, performance measurement, visulization ; 
+  (Analyzinf Consumer Sentiment... .pdf): Slideshow for project presentation
+  
+  
 Machine Learning (CS 475) - Professor Cheng, Willamette University (Spring 2022)
 
 Team members: David Richardson, Madeline Van Slyke, Alex Bamberger
